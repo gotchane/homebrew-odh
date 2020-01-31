@@ -4,7 +4,7 @@ class Odh < Formula
   homepage "https://github.com/gotchane/odh"
   url "https://github.com/gotchane/odh/releases/download/1.0.0/odh_1.0.0_Darwin_x86_64.tar.gz"
   version "1.0.0"
-  sha256 "fef638c77a6127f25c77abdc0040eae158c7781277c52e1971b7fffcd64d1583"
+  sha256 "cf5fd53045e5b5ce64af08d1edf9946a8b55e41087bffbe3cf44a23b72d20de1"
   
   depends_on "go"
 
